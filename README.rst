@@ -19,7 +19,7 @@ and offers precise control for designers and developers.
 
 Features
 ~~~~~~~~
-
+* An extensible `Wagtail Python Developers <https://www.chrisranjana.com/secondportfolio/wagtailprogrammers.html>`_
 * A fast, attractive interface for authors and editors
 * Complete control over design with standard Django templates
 * Configure content types through standard Django models
